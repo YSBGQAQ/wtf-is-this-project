@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="260" viewBox="0 0 1200 260"
+     role="img" aria-labelledby="skelTitle skelDesc">
+  <title id="skelTitle">The six-section skeleton</title>
+  <desc id="skelDesc">Six numbered boxes in sequence: 01 install and use, 02 what problem it solves, 03 when to reach for it, 04 core concepts, 05 effect signals, 06 where its edges are.</desc>
+
+  <rect width="1200" height="260" rx="26" fill="#ffffff" stroke="#e4e7eb" stroke-width="1.5"/>
+
+  <!-- ================= boxes ================= -->
+  <g id="sections">
+
+    <!-- 01 -->
+    <g transform="translate(50 56)">
+      <rect width="160" height="148" rx="10" fill="#fbfcfd" stroke="#e4e7eb" stroke-width="1.5"/>
+      <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6b7280">01</text>
+      <text x="80" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#1f2328">安装与使用</text>
+      <text x="80" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#6b7280">Install</text>
+    </g>
+
+    <!-- 02 -->
+    <g transform="translate(238 56)">
+      <rect width="160" height="148" rx="10" fill="#fbfcfd" stroke="#e4e7eb" stroke-width="1.5"/>
+      <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6b7280">02</text>
+      <text x="80" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#1f2328">解决什么问题</text>
+      <text x="80" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#6b7280">Problem</text>
+    </g>
+
+    <!-- 03 -->
+    <g transform="translate(426 56)">
+      <rect width="160" height="148" rx="10" fill="#fbfcfd" stroke="#e4e7eb" stroke-width="1.5"/>
+      <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6b7280">03</text>
+      <text x="80" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#1f2328">什么时候用</text>
+      <text x="80" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#6b7280">When</text>
+    </g>
+
+    <!-- 04 -->
+    <g transform="translate(614 56)">
+      <rect width="160" height="148" rx="10" fill="#fbfcfd" stroke="#e4e7eb" stroke-width="1.5"/>
+      <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6b7280">04</text>
+      <text x="80" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#1f2328">核心概念</text>
+      <text x="80" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#6b7280">Concepts</text>
+    </g>
+
+    <!-- 05 -->
+    <g transform="translate(802 56)">
+      <rect width="160" height="148" rx="10" fill="#fbfcfd" stroke="#e4e7eb" stroke-width="1.5"/>
+      <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6b7280">05</text>
+      <text x="80" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#1f2328">生效信号</text>
+      <text x="80" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#6b7280">Signals</text>
+    </g>
+
+    <!-- 06 -->
+    <g transform="translate(990 56)">
+      <rect width="160" height="148" rx="10" fill="#fbfcfd" stroke="#e4e7eb" stroke-width="1.5"/>
+      <text x="16" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" fill="#6b7280">06</text>
+      <text x="80" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, sans-serif" font-size="20" fill="#1f2328">它的边界</text>
+      <text x="80" y="116" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" fill="#6b7280">Edges</text>
+    </g>
+
+  </g>
+
+  <!-- ================= connectors ================= -->
+  <g id="connectors" stroke="#c9d1d9" fill="#c9d1d9">
+    <line x1="214" y1="130" x2="228" y2="130" stroke-width="2"/>
+    <polygon points="228,125 236,130 228,135" stroke="none"/>
+    <line x1="402" y1="130" x2="416" y2="130" stroke-width="2"/>
+    <polygon points="416,125 424,130 416,135" stroke="none"/>
+    <line x1="590" y1="130" x2="604" y2="130" stroke-width="2"/>
+    <polygon points="604,125 612,130 604,135" stroke="none"/>
+    <line x1="778" y1="130" x2="792" y2="130" stroke-width="2"/>
+    <polygon points="792,125 800,130 792,135" stroke="none"/>
+    <line x1="966" y1="130" x2="980" y2="130" stroke-width="2"/>
+    <polygon points="980,125 988,130 980,135" stroke="none"/>
+  </g>
+</svg>
