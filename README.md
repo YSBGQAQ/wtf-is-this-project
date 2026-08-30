@@ -7,6 +7,10 @@
   English · two agent skills that turn any project into a beginner-readable brief.
 </p>
 
+<p align="center">
+  <strong>中文</strong> · <a href="./README_en.md">English</a>
+</p>
+
 ## 它解决什么问题
 
 你丢过来一个 GitHub 项目，想知道它到底干嘛的。README 常常帮不上忙——它写给已经懂行的人看：术语不加解释，塞着安装命令和配置片段，读完还是不知道要不要用。
@@ -124,4 +128,4 @@ cp -r wtf-is-this-project-cn .workbuddy/skills/
 
 ## License
 
-尚未指定。
+MIT
